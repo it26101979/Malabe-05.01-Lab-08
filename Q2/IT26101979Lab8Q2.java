@@ -7,7 +7,7 @@ public class IT26101979Lab8Q2 {
         
         
         for (int i = 0; i < A.length; i++) {
-            C[i] = A[i] + B[i];[span_4](start_span)[span_4](end_span)
+            C[i] = A[i] + B[i];
         }
         
         
